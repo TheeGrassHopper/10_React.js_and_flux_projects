@@ -1,1 +1,1 @@
-# 10_React.js_projects
+# 10_React.js_and_flux_projects
