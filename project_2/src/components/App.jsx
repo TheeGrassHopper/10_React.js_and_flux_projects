@@ -17,7 +17,7 @@ class App extends React.Component{
 	// Get User Date from github
 	getUserData(){
 		$.ajax({
-    url: 'https://api.github.com/users/' + this.state.username + '?client_id=' + this.props.clientId + '&client_secret=' + this.props.clientSecret,	
+   		 url: 'https://api.github.com/users/' + this.state.username + '?client_id=' + this.props.clientId + '&client_secret=' + this.props.clientSecret,	
  				dataType: 'json',
 				cache: false,
 				success: function(data){
