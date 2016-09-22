@@ -22,3 +22,5 @@ To run this application just open `index.html` found from `dist` directory.
 
 ## Deploying the applcation
 To deploy this application just copy entire content of `dist` directory to your server.
+
+http://guide-lucy-70204.bitballoon.com/

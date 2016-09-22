@@ -13,7 +13,7 @@ class Movie extends React.Component {
             <h4>{this.props.movie.Title}</h4>
             <ul className="list-group">
               <li className="list-group-item">Year Released: {this.props.movie.Year}</li>
-              <li className="list-group-item">IMDB ID: {this.props.movie.imdbID}</li>
+              <li className="list-group-item">IMDB LINK: {this.props.movie.imdbID}</li>
             </ul>
             <a className="btn btn-primary" href={link}>View on IMDB</a>
           </div>

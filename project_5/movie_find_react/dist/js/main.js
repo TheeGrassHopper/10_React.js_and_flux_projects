@@ -198,7 +198,7 @@ var Movie = function (_React$Component) {
               _react2.default.createElement(
                 'li',
                 { className: 'list-group-item' },
-                'IMDB ID: ',
+                'IMDB LINK: ',
                 this.props.movie.imdbID
               )
             ),
